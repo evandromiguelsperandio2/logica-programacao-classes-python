@@ -75,7 +75,7 @@ A classe `Fila` implementa uma estrutura de fila utilizando uma lista Python. A 
    git clone https://github.com/evandromiguelsperandio2/logica-programacao-classes-python.git
    
 2. Navegue até a pasta do projeto:
-  cd estrutura-de-dados-python
+  cd logica-programacao-classes-python
 
 3. Execute os arquivos Python conforme necessário.
 Exemplo:
