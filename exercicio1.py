@@ -48,13 +48,13 @@ livro1 = Livro("Dom Casmurro", "Machado de Assis")
 # Consultando status inicial
 print("Status:", livro1.consultar_status())  # Deve exibir: Disponível
 
-# Tentando emprestar o livro
+# Tentando emprestar o livro 1
 livro1.emprestar()  # Deve exibir mensagem de sucesso
 
 # Tentando emprestar novamente
 livro1.emprestar()  # Deve informar que já está emprestado
 
-# Devolvendo o livro
+# Devolvendo o livro 1
 livro1.devolver()  # Deve exibir mensagem de devolução
 
 # Consultando status final
